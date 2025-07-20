@@ -50,11 +50,11 @@ const Hero = () => {
         <div className="flex flex-col sm:flex-row flex-wrap justify-center items-center gap-4 sm:gap-6 mb-8 text-sm text-muted-foreground">
           <div className="flex items-center gap-2">
             <MapPin className="w-4 h-4 text-tech-blue flex-shrink-0" />
-            <span className="text-center sm:text-left">Srinagar, IN 190008</span>
+            <span className="text-center sm:text-left">Srinagar, IN 190006</span>
           </div>
           <div className="flex items-center gap-2">
             <Mail className="w-4 h-4 text-tech-purple flex-shrink-0" />
-            <span className="text-center sm:text-left break-all sm:break-normal">riyazkamran01@gmail.com</span>
+            <span className="text-center sm:text-left break-all sm:break-normal">riyazkamran03@gmail.com</span>
           </div>
         </div>
         
