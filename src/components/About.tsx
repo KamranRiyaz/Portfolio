@@ -11,7 +11,7 @@ const About = () => {
             <span className="gradient-text">About Me</span>
           </h2>
           <p className="text-base sm:text-lg text-muted-foreground max-w-2xl mx-auto px-4">
-            about technology and innovation, I excel at working with multiple languages 
+            Passionate about technology and innovation, I excel at working with multiple languages 
             across diverse fields with a strong understanding of modern tech trends.
           </p>
         </div>
