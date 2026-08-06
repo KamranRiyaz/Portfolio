@@ -23,7 +23,7 @@ const About = () => {
               <CardContent className="p-6">
                 <h3 className="text-2xl font-semibold mb-4 text-tech-blue">Professional Summary</h3>
                 <p className="text-muted-foreground leading-relaxed mb-4">
-                  Experienced software developer proficient in various programming languages. 
+                  software developer proficient in various programming languages. 
                   I utilize coding and debugging skills to drive project success with a proven 
                   track record of effective teamwork and problem-solving in fast-paced environments.
                 </p>
