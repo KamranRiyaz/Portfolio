@@ -11,7 +11,7 @@ const About = () => {
             <span className="gradient-text">About Me</span>
           </h2>
           <p className="text-base sm:text-lg text-muted-foreground max-w-2xl mx-auto px-4">
-            Passionate about technology and innovation, I excel at working with multiple languages 
+            about technology and innovation, I excel at working with multiple languages 
             across diverse fields with a strong understanding of modern tech trends.
           </p>
         </div>
@@ -23,7 +23,7 @@ const About = () => {
               <CardContent className="p-6">
                 <h3 className="text-2xl font-semibold mb-4 text-tech-blue">Professional Summary</h3>
                 <p className="text-muted-foreground leading-relaxed mb-4">
-                  software developer proficient in various programming languages. 
+                  Experienced software developer proficient in various programming languages. 
                   I utilize coding and debugging skills to drive project success with a proven 
                   track record of effective teamwork and problem-solving in fast-paced environments.
                 </p>
